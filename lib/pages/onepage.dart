@@ -11,7 +11,6 @@ class Onepage extends StatefulWidget {
 class _OnepageState extends State<Onepage> {
   List<Hobby> hobbies = [];
   List _SelectedItem = [];
-
   @override
   void initState() {
     super.initState();
